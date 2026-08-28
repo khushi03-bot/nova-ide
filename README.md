@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khushi03-bot/nova-ide/nova.ico" width="128" height="128" alt="Nova IDE Logo" />
+  <img src="./logo.png" width="128" height="128" alt="Nova IDE Logo" />
   <h1>Nova IDE</h1>
   <p><b>A lightweight, fast, and cross-platform Python IDE built with PyQt6.</b></p>
 
@@ -64,3 +64,4 @@ Developed as a modern alternative to IDLE, Nova IDE makes coding in Python incre
 ## 📝 License
 
 This project is open-source and available under the **MIT License**.
+
