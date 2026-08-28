@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khushi03-bot/nova-ide/main/nova.ico" width="128" height="128" alt="Nova IDE Logo" />
+  <img src="https://raw.githubusercontent.com/khushi03-bot/nova-ide/nova.ico" width="128" height="128" alt="Nova IDE Logo" />
   <h1>Nova IDE</h1>
   <p><b>A lightweight, fast, and cross-platform Python IDE built with PyQt6.</b></p>
 
@@ -54,16 +54,6 @@ Developed as a modern alternative to IDLE, Nova IDE makes coding in Python incre
 - **Python 3** - Core logic and execution engine
 - **PyQt6** - Graphical User Interface (GUI)
 - **SQLite3** - Local database for saving preferences and themes
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are always welcome! Feel free to check the [issues page](https://github.com/khushi03-bot/nova-ide/issues).
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 👤 Author
 
